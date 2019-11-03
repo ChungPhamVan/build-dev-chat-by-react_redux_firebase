@@ -1,28 +1,28 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Một số module mình đã dùng trong trang web đơn giản trên:
-  0, react
-  1, react-router-dom 
-  2, react-color
-  3, react-scripts
-  4, react-redux
-  5, react-dome
-  6, react-avatar-editor
-  7, react-bs-notifier
-  8, redux
-  9, redux-devtools-extension
-  10, yarn
-  11, semantic-ui-react
-  12, moment
-  13, mime-types
-  14, md5
-  15, uuid
-Framework:
+## Một số module mình đã dùng trong trang web đơn giản trên:
+  + react
+  + react-router-dom 
+  + react-color
+  + react-scripts
+  + react-redux
+  + react-dome
+  + react-avatar-editor
+  + react-bs-notifier
+  + redux
+  + redux-devtools-extension
+  + yarn
+  + semantic-ui-react
+  + moment
+  + mime-types
+  + md5
+  + uuid
+ ### Framework:
   + ReactJs - Redux
   + Express
   + Semantic ui
-Web Server:
+ ### Web Server:
   + Express
-Programming Language:
+ ### Programming Language:
   + NodeJs
 ## Available Scripts
 
